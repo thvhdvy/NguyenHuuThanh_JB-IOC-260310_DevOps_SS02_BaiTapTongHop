@@ -46,7 +46,7 @@ Cấu hình kết nối database (biến môi trường):
 ```
 export DB_URL=jdbc:postgresql://localhost:5432/postgres
 export DB_USERNAME=postgres
-esport DB_PASSWORD=secret
+export DB_PASSWORD=secret
 ```
 
 Chạy ứng dụng:
